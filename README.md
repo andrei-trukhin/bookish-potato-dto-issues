@@ -1,6 +1,6 @@
 # Bookish Potato DTO Issues Repository
 
-Welcome to the **[Package Name]** Issues Repository! This repository is dedicated to tracking and managing issues, bugs, and feature requests related to the **[Package Name]** npm package.
+Welcome to the **Bookish Potato DTO** Issues Repository! This repository is dedicated to tracking and managing issues, bugs, and feature requests related to the **[Package Name]** npm package.
 
 ## 📦 About the Package
 
