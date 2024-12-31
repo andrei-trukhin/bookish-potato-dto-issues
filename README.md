@@ -39,3 +39,8 @@ To streamline the process and ensure efficiency, please follow these guidelines 
 - Discussions or suggestions not directly tied to the npm package.
 
 ---
+## 💬 Questions & Discussions
+
+If you have questions, need support, or wish to discuss ideas unrelated to specific bugs or feature requests, please use the **Discussions** tab.
+
+---
