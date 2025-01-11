@@ -1,0 +1,15 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "trailingComma": "all",
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "endOfLine": "lf",
+  "rules": {
+    "no-warning-comments": ["error", { "terms": ["eslint-disable-line"], "location": "anywhere" }]
+  }
+}
